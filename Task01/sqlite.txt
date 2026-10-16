@@ -1,0 +1,16 @@
+Версия SQLite: 3.53.4
+Режимы вывода, доступные в sqlite3:
+- list
+- csv
+- column
+- html
+- insert
+- line
+- tabs
+- tcl
+- json
+- quote
+- box
+- table
+- markdown
+- qbox
